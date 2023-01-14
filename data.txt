@@ -1,0 +1,1 @@
+”Ajax communication was successful”
